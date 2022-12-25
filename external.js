@@ -1,3 +1,3 @@
 function aFunctionImplementedInExternalJsFile(jsString) {
-	alert('Hello from external.js file! We received a string:"' + jsString + '"');
+	alert('from external.js string:"' + jsString + '"');
 }
